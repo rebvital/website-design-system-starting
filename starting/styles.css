@@ -10,7 +10,6 @@ nav{
     bottom: 0px;
     width: 100%;
     background-color: burlywood;
-    border-bottom: 1px solid black;
     z-index: 10;
     height: 15%;
 }
